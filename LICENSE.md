@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2023 Surya Paul
+Copyright (c) 2025 Surya Paul
 
 ## Cursor AI Trial Reset Tool License
 
